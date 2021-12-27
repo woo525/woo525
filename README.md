@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 🔭 I worked on ...
 - Creative Semester Project on Sejong University (2021.09 ~ 2021.12) [Repo]()
-- Sejong Robotics & Computer vision Lab S.U.R.P (2021.07 ~ 2021.08) [Repo]()
+- Sejong Robotics & Computer Vision Lab S.U.R.P (2021.07 ~ 2021.08) [Repo]()
