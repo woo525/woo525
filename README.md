@@ -1,4 +1,4 @@
-### Hi there 👋
+### Woohyeok Kim 👋 (@woo525)
 
 <!--
 **woo525/woo525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📚 Education
+- Junior Unmanned vehicle engineering Student in Sejong University, South Korea
+
+🌱 I’m currently Interested in ...
+- Computer Vision, especially Robot Vision
+
+🔥 I’m currently working on ...
+- KAIST Intelligent Mobile Manipulation Lab Intern (2022.01 ~ Present) [Repo]()
+- Review DeepLearning Paper [Repo]()
+
+🔭 I worked on ...
+- Creative Semester Project on Sejong University (2021.09 ~ 2021.12) [Repo]()
+- Sejong Robotics & Computer vision Lab S.U.R.P (2021.07 ~ 2021.08) [Repo]()
