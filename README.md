@@ -1,5 +1,7 @@
 ### Woohyeok Kim 👋 (@woo525)
 
+[CV](https://github.com/woo525/woo525/blob/main/%EA%B9%80%EC%9A%B0%ED%98%81-CV.pdf) | [Blog]() | [GitHub](https://github.com/woo525)
+
 <!--
 **woo525/woo525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
