@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 📚 Education
 - Junior Unmanned vehicle engineering Student in Sejong University, South Korea
+- Geochang High School, South Korea
 
 🌱 I’m currently Interested in ...
 - Computer Vision, especially Robot Vision
