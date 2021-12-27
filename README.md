@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Computer Vision, especially Robot Vision
 
 🔥 I’m currently working on ...
-- KAIST Intelligent Mobile Manipulation Lab Intern (2022.01 ~ Present) [Repo]()
+- KAIST Intelligent Mobile Manipulation Lab W.U.R.P (2022.01 ~ Present) [Repo]()
 - Review DeepLearning Paper [Repo]()
 
 🔭 I worked on ...
