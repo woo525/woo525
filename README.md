@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Computer Vision, especially Robot Vision
 
 🔥 I’m currently working on ...
-- KAIST Intelligent Mobile Manipulation Lab W.U.R.P (2022.01 ~ 2022.02) [Repo]()
+- KAIST Intelligent Mobile Manipulation Lab W.U.R.P (2022.01 ~ 2022.02) [Repo](https://github.com/JisuHann/Instance-segmentation-through-Interactive-perception)
 - Review DeepLearning Paper [Repo]()
 
 🔭 I worked on ...
