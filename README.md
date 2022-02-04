@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 🔥 I’m currently working on ...
 - KAIST Intelligent Mobile Manipulation Lab W.U.R.P (2022.01 ~ 2022.02) [Repo](https://github.com/JisuHann/Instance-segmentation-through-Interactive-perception)
-- Review DeepLearning Paper [Repo]()
 
 🔭 I worked on ...
 - Creative Semester Project on Sejong University (2021.09 ~ 2021.12) [Repo](https://github.com/woo525/muin_DL)
