@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 🔥 I’m currently working on ...
 
 🔭 I worked on ...
-- KAIST Intelligent Mobile Manipulation Lab W.U.R.P (2022.01 ~ 2022.02) [Repo](https://github.com/JisuHann/Instance-segmentation-through-Interactive-perception)
+- KAIST-AI: Intelligent Mobile Manipulation Lab W.U.R.P (2022.01 ~ 2022.02) [Repo](https://github.com/JisuHann/Instance-segmentation-through-Interactive-perception)
 - Creative Semester Project on Sejong University (2021.09 ~ 2021.12) [Repo](https://github.com/woo525/muin_DL)
-- Sejong Robotics & Computer Vision Lab S.U.R.P (2021.07 ~ 2021.08) [Repo](https://github.com/sejong-rcv/2021.URP.Summer/tree/woo525/SSD300)
+- Sejong: Robotics & Computer Vision Lab S.U.R.P (2021.07 ~ 2021.08) [Repo](https://github.com/sejong-rcv/2021.URP.Summer/tree/woo525/SSD300)
