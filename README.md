@@ -18,15 +18,16 @@ Here are some ideas to get you started:
 -->
 
 📚 Education
-- Junior Unmanned vehicle engineering Student in Sejong University, South Korea
+- Senior Unmanned vehicle engineering Student in Sejong University, South Korea
 - Geochang High School, South Korea
 
 🌱 I’m currently Interested in ...
-- Computer Vision, especially Robot Vision
+- Statistical Inference, Information Theory, Data Science & Financial Engineering
+- ~~Computer Vision, especially Robot Vision~~
 
 🔥 I’m currently working on ...
-- KAIST Intelligent Mobile Manipulation Lab W.U.R.P (2022.01 ~ 2022.02) [Repo](https://github.com/JisuHann/Instance-segmentation-through-Interactive-perception)
 
 🔭 I worked on ...
+- KAIST Intelligent Mobile Manipulation Lab W.U.R.P (2022.01 ~ 2022.02) [Repo](https://github.com/JisuHann/Instance-segmentation-through-Interactive-perception)
 - Creative Semester Project on Sejong University (2021.09 ~ 2021.12) [Repo](https://github.com/woo525/muin_DL)
 - Sejong Robotics & Computer Vision Lab S.U.R.P (2021.07 ~ 2021.08) [Repo](https://github.com/sejong-rcv/2021.URP.Summer/tree/woo525/SSD300)
