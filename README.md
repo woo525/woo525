@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 - Geochang High School, South Korea
 
 🌱 I’m currently Interested in ...
-- Statistical Inference, Data Science & Financial Engineering
-- ~~Computer Vision, especially Robot Vision~~
+- Computer Vision
 
 🔥 I’m currently working on ...
 
