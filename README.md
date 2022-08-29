@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 📚 Education
-- Senior Unmanned vehicle engineering Student in Sejong University, South Korea
+- Senior Unmanned Vehicle Engineering Student in Sejong University, South Korea
 - Geochang High School, South Korea
 
 🌱 I’m currently Interested in ...
