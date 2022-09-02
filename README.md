@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Computer Graphics, Image Restoration
 
 🔥 I’m currently working on ...
-- 
+- ""
 
 🔭 I worked on ...
 - KAIST-AI: Intelligent Mobile Manipulation Lab W.U.R.P (2022.01 ~ 2022.02) [Repo](https://github.com/JisuHann/Instance-segmentation-through-Interactive-perception)
