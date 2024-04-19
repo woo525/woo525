@@ -1,3 +1,1 @@
-### Woohyeok Kim 👋 (@woo525)
-
-[Blog]() | [CV]()  
+### [Woohyeok Kim](https://woo525.github.io/) 👋 (@[woo525](https://woo525.github.io/))
